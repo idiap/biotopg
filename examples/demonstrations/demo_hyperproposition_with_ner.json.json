@@ -1,0 +1,338 @@
+[
+    {
+    "passage": "Progesterone neuroprotection in traumatic CNS injury and motoneuron degeneration.\nStudies on the neuroprotective and promyelinating effects of progesterone in the nervous system are of great interest due to their potential clinical connotations. In peripheral neuropathies, progesterone and reduced derivatives promote remyelination, axonal regeneration and the recovery of function. In traumatic brain injury (TBI), progesterone has the ability to reduce edema and inflammatory cytokines, prevent neuronal loss and improve functional outcomes. Clinical trials have shown that short-and long-term progesterone treatment induces a significant improvement in the level of disability among patients with brain injury. In experimental spinal cord injury (SCI), molecular markers of functional motoneurons become impaired, including brain-derived neurotrophic factor (BDNF) mRNA, Na,K-ATPase mRNA, microtubule-associated protein 2 and choline acetyltransferase (ChAT). SCI also produces motoneuron chromatolysis. Progesterone treatment restores the expression of these molecules while chromatolysis subsided. SCI also causes oligodendrocyte loss and demyelination. In this case, a short progesterone treatment enhances proliferation and differentiation of oligodendrocyte progenitors into mature myelin-producing cells, whereas prolonged treatment increases a transcription factor (Olig1) needed to repair injury-induced demyelination. Progesterone neuroprotection has also been shown in motoneuron neurodegeneration. In Wobbler mice spinal cord, progesterone reverses the impaired expression of BDNF, ChAT and Na,K-ATPase, prevents vacuolar motoneuron degeneration and the development of mitochondrial abnormalities, while functionally increases muscle strength and the survival of Wobbler mice. Multiple mechanisms contribute to these progesterone effects, and the role played by classical nuclear receptors, extra nuclear receptors, membrane receptors, and the reduced metabolites of progesterone in neuroprotection and myelin formation remain an exciting field worth of exploration.",
+    "entities": [
+        "Progesterone",
+        "traumatic CNS injury",
+        "motoneuron degeneration",
+        "neuronal loss",
+        "peripheral neuropathies",
+        "TBI",
+        "traumatic brain injury",
+        "edema",
+        "inflammatory",
+        "patients",
+        "brain injury",
+        "SCI",
+        "spinal cord injury",
+        "BDNF",
+        "brain-derived neurotrophic factor",
+        "microtubule-associated protein 2",
+        "choline acetyltransferase",
+        "ChAT",
+        "chromatolysis",
+        "oligodendrocyte loss",
+        "demyelination",
+        "Olig1",
+        "neurodegeneration",
+        "mice",
+        "mitochondrial abnormalities"
+    ],
+    "hyperpropositions": [
+        {
+            "proposition": "Progesterone provides neuroprotection in traumatic CNS injury.",
+            "entities": [
+                "Progesterone",
+                "traumatic CNS injury"
+            ]
+        },
+        {
+            "proposition": "Progesterone provides neuroprotection in motoneuron degeneration.",
+            "entities": [
+                "Progesterone",
+                "motoneuron degeneration"
+            ]
+        },
+        {
+            "proposition": "Progesterone promotes remyelination in peripheral neuropathies.",
+            "entities": [
+                "Progesterone",
+                "peripheral neuropathies"
+            ]
+        },
+        {
+            "proposition": "Progesterone promotes axonal regeneration in peripheral neuropathies.",
+            "entities": [
+                "Progesterone",
+                "peripheral neuropathies"
+            ]
+        },
+        {
+            "proposition": "Progesterone promotes recovery of function in peripheral neuropathies.",
+            "entities": [
+                "Progesterone",
+                "peripheral neuropathies"
+            ]
+        },
+        {
+            "proposition": "Progesterone reduces edema in traumatic brain injury.",
+            "entities": [
+                "Progesterone",
+                "edema",
+                "traumatic brain injury"
+            ]
+        },
+        {
+            "proposition": "Progesterone reduces inflammatory cytokines in traumatic brain injury.",
+            "entities": [
+                "Progesterone",
+                "inflammatory",
+                "traumatic brain injury"
+            ]
+        },
+        {
+            "proposition": "Progesterone prevents neuronal loss in traumatic brain injury.",
+            "entities": [
+                "Progesterone",
+                "neuronal loss",
+                "traumatic brain injury"
+            ]
+        },
+        {
+            "proposition": "Progesterone improves functional outcomes in traumatic brain injury.",
+            "entities": [
+                "Progesterone",
+                "traumatic brain injury"
+            ]
+        },
+        {
+            "proposition": "Short- and long-term progesterone treatment significantly improves the level of disability in patients with brain injury.",
+            "entities": [
+                "Progesterone",
+                "patients",
+                "brain injury"
+            ]
+        },
+        {
+            "proposition": "Spinal cord injury impairs molecular markers of functional motoneurons, including BDNF mRNA, Na,K-ATPase mRNA, microtubule-associated protein 2, and choline acetyltransferase.",
+            "entities": [
+                "spinal cord injury",
+                "BDNF",
+                "microtubule-associated protein 2",
+                "choline acetyltransferase"
+            ]
+        },
+        {
+            "proposition": "Spinal cord injury produces motoneuron chromatolysis.",
+            "entities": [
+                "spinal cord injury",
+                "chromatolysis"
+            ]
+        },
+        {
+            "proposition": "Progesterone treatment restores the expression of BDNF, microtubule-associated protein 2, and choline acetyltransferase after spinal cord injury.",
+            "entities": [
+                "Progesterone",
+                "BDNF",
+                "microtubule-associated protein 2",
+                "choline acetyltransferase",
+                "spinal cord injury"
+            ]
+        },
+        {
+            "proposition": "Progesterone treatment subsides chromatolysis after spinal cord injury.",
+            "entities": [
+                "Progesterone",
+                "chromatolysis",
+                "spinal cord injury"
+            ]
+        },
+        {
+            "proposition": "Spinal cord injury causes oligodendrocyte loss and demyelination.",
+            "entities": [
+                "spinal cord injury",
+                "oligodendrocyte loss",
+                "demyelination"
+            ]
+        },
+        {
+            "proposition": "Short progesterone treatment enhances proliferation and differentiation of oligodendrocyte progenitors into mature myelin-producing cells after spinal cord injury.",
+            "entities": [
+                "Progesterone",
+                "spinal cord injury"
+            ]
+        },
+        {
+            "proposition": "Prolonged progesterone treatment increases Olig1 expression needed to repair injury-induced demyelination after spinal cord injury.",
+            "entities": [
+                "Progesterone",
+                "Olig1",
+                "demyelination",
+                "spinal cord injury"
+            ]
+        },
+        {
+            "proposition": "Progesterone neuroprotection is demonstrated in motoneuron neurodegeneration.",
+            "entities": [
+                "Progesterone",
+                "neurodegeneration"
+            ]
+        },
+        {
+            "proposition": "In Wobbler mice spinal cord, progesterone reverses the impaired expression of BDNF, choline acetyltransferase, and Na,K-ATPase.",
+            "entities": [
+                "Progesterone",
+                "BDNF",
+                "choline acetyltransferase",
+                "mice"
+            ]
+        },
+        {
+            "proposition": "In Wobbler mice spinal cord, progesterone prevents vacuolar motoneuron degeneration.",
+            "entities": [
+                "Progesterone",
+                "motoneuron degeneration",
+                "mice"
+            ]
+        },
+        {
+            "proposition": "In Wobbler mice spinal cord, progesterone prevents the development of mitochondrial abnormalities.",
+            "entities": [
+                "Progesterone",
+                "mitochondrial abnormalities",
+                "mice"
+            ]
+        },
+        {
+            "proposition": "In Wobbler mice, progesterone increases muscle strength and survival.",
+            "entities": [
+                "Progesterone",
+                "mice"
+            ]
+        }
+    ]
+},
+{
+    "passage": "Degraded DNA may induce discordance of KRAS status between primary colorectal cancer and corresponding liver metastases.\nBACKGROUND: KRAS mutation is widely accepted as a strong, negative predictive marker for anti-epidermal growth factor receptor antibodies, including cetuximab and panitumumab. Previous reports demonstrated approximately 100 % concordance of KRAS status between primary colorectal cancer and liver metastases; however, mismatched KRAS status still occurs. METHODS: KRAS status was evaluated in 105 pairs of formalin-fixed primary colorectal cancer and corresponding liver metastases specimens by direct sequencing. DNA quality of patients displaying mismatched KRAS status between primary tumors and metastases was assessed using a Bioanalyzer. RESULTS: KRAS status was successfully analyzed in 90/105 patients (85.7 %). The concordance rate between primary tumors and metastases was 88.2 % in synchronous metastases (n = 76) and 100 % in metachronous metastases (n = 14). Discordance in KRAS status was observed in nine patients. Independent method validation revealed only five samples showed the same KRAS status between the two methods. DNA quality assessment by a Bioanalyzer revealed that the median length of DNA samples in the peak concentration of the mismatched group was significantly shorter than those in the control group (153.5 vs 276.5 bp, P = 0.0059). In addition, the median value of the percentage of degraded DNA (0-200 bp) in each sample in the mismatched group was significantly higher than the control group (35.5 vs 22 %, P = 0.020). These data suggest that the discordant results for these nine patients (18 samples) were due to low quality DNA, which may obscure polymerase chain reaction analysis, affecting sequencing reliability. CONCLUSION: Quality control and assurance of KRAS genotyping is critical, and standardization of the methodology is warranted.",
+    "entities": ["KRAS", "colorectal cancer", "liver metastases", "metastases", "epidermal growth factor receptor", "cetuximab", "panitumumab", "formalin", "patients", "tumors"],
+    "hyperpropositions": [
+        {
+            "proposition": "KRAS mutation is a strong negative predictive marker for anti-epidermal growth factor receptor antibodies, including cetuximab and panitumumab.",
+            "entities": [
+                "KRAS",
+                "epidermal growth factor receptor",
+                "cetuximab",
+                "panitumumab"
+            ]
+        },
+        {
+            "proposition": "KRAS status is usually concordant between primary colorectal cancer and corresponding liver metastases.",
+            "entities": [
+                "KRAS",
+                "colorectal cancer",
+                "liver metastases"
+            ]
+        },
+        {
+            "proposition": "Discordance in KRAS status can occur between primary colorectal cancer and corresponding liver metastases.",
+            "entities": [
+                "KRAS",
+                "colorectal cancer",
+                "liver metastases"
+            ]
+        },
+        {
+            "proposition": "Degraded DNA may induce discordance of KRAS status between primary colorectal cancer and corresponding liver metastases.",
+            "entities": [
+                "KRAS",
+                "colorectal cancer",
+                "liver metastases"
+            ]
+        },
+        {
+            "proposition": "KRAS status concordance rate between primary tumors and synchronous metastases is 88.2%.",
+            "entities": [
+                "KRAS",
+                "tumors",
+                "metastases"
+            ]
+        },
+        {
+            "proposition": "KRAS status concordance rate between primary tumors and metachronous metastases is 100%.",
+            "entities": [
+                "KRAS",
+                "tumors",
+                "metastases"
+            ]
+        },
+        {
+            "proposition": "Quality control and assurance of KRAS genotyping is critical for accurate assessment in patients with colorectal cancer and liver metastases.",
+            "entities": [
+                "KRAS",
+                "colorectal cancer",
+                "liver metastases",
+                "patients"
+            ]
+        }
+    ]
+},
+{
+    "passage": "Neuromuscular junction maturation defects precede impaired lower motor neuron connectivity in Charcot-Marie-Tooth type 2D mice.\nDominant mutations in GARS, encoding the essential enzyme glycyl-tRNA synthetase (GlyRS), result in a form of Charcot-Marie-Tooth disease, type 2D (CMT2D), predominantly characterized by lower motor nerve degeneration. GlyRS charges the amino acid glycine with its cognate tRNA and is therefore essential for protein translation. However, the underlying mechanisms linking toxic gain-of-function GARS mutations to lower motor neuron degeneration remain unidentified. The neuromuscular junction (NMJ) appears to be an early target for pathology in a number of peripheral nerve diseases and becomes denervated at later stages in two mouse models of CMT2D. We therefore performed a detailed longitudinal examination of NMJs in the distal lumbrical muscles and the proximal transversus abdominis (TVA) muscles of wild-type and Gars mutant mice. We determined that mutant lumbrical NMJs display a persistent defect in maturation that precedes a progressive, age-dependent degeneration. Conversely, the TVA remains relatively unaffected, with only a subtle, short-lived impairment in pre- and post-synaptic development and no reduction in lower motor neuron connectivity to muscle. Together, these observations suggest that mutant Gars is associated with compromised development of the NMJ prior to synaptic degeneration and highlight the neuromuscular synapse as an important site of early, selective pathology in CMT2D mice.",
+    "entities": ["CMT2D.", "Charcot-Marie-Tooth type 2D", "CMT2D", "Charcot-Marie-Tooth disease, type 2D", "mice", "mouse", "glycyl-tRNA synthetase", "GlyRS", "GARS", "motor nerve degeneration", "motor neuron degeneration", "tRNA", "peripheral nerve diseases"],
+    "hyperpropositions": [
+        {
+            "proposition": "Dominant mutations in GARS cause Charcot-Marie-Tooth disease, type 2D.",
+            "entities": [
+                "GARS",
+                "Charcot-Marie-Tooth disease, type 2D"
+            ]
+        },
+        {
+            "proposition": "Charcot-Marie-Tooth disease, type 2D is also known as CMT2D.",
+            "entities": [
+                "Charcot-Marie-Tooth disease, type 2D",
+                "CMT2D"
+            ]
+        },
+        {
+            "proposition": "Charcot-Marie-Tooth disease, type 2D is characterized predominantly by lower motor nerve degeneration.",
+            "entities": [
+                "Charcot-Marie-Tooth disease, type 2D",
+                "motor nerve degeneration"
+            ]
+        },
+        {
+            "proposition": "GARS encodes glycyl-tRNA synthetase (GlyRS).",
+            "entities": [
+                "GARS",
+                "glycyl-tRNA synthetase"
+            ]
+        },
+        {
+            "proposition": "GlyRS charges glycine to its cognate tRNA.",
+            "entities": [
+                "glycyl-tRNA synthetase",
+                "tRNA"
+            ]
+        },
+        {
+            "proposition": "Mutant Gars is associated with compromised development of the neuromuscular junction prior to synaptic degeneration in CMT2D mice.",
+            "entities": [
+                "GARS",
+                "CMT2D",
+                "mice"
+            ]
+        },
+        {
+            "proposition": "The neuromuscular junction is an early site of pathology in CMT2D mice.",
+            "entities": [
+                "CMT2D",
+                "mice"
+            ]
+        },
+        {
+            "proposition": "Peripheral nerve diseases can target the neuromuscular junction early in pathology.",
+            "entities": [
+                "peripheral nerve diseases"
+            ]
+        },
+        {
+            "proposition": "Neuromuscular synapse as an important site of early, selective pathology in CMT2D mice",
+            "entities": [
+                "CMT2D",
+                "mice"
+            ]
+        }
+    ]
+}
+]
