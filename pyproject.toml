@@ -25,5 +25,6 @@ dependencies = [
     "tqdm>=4.0,<5",
 ]
 
-[tool.setuptools]
-packages = ["biotopg"]
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["biotopg*"]
